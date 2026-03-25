@@ -1,4 +1,4 @@
-module github.com/dunglas/caddy-cbrotli
+module github.com/bosdaring/caddy-cbrotli
 
 go 1.21
 
