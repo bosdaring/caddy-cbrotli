@@ -7,7 +7,7 @@ import (
 	"testing"
 
 	"github.com/caddyserver/caddy/v2/caddytest"
-	"github.com/google/brotli/go/cbrotli"
+	"github.com/google/brotli/tree/master/go/cbrotli"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )
