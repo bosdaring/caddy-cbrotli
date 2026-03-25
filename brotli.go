@@ -6,7 +6,7 @@ import (
 	"errors"
 	"strconv"
 
-	"github.com/google/brotli/go/cbrotli"
+	"github.com/google/brotli/tree/master/go/cbrotli"
 
 	"github.com/caddyserver/caddy/v2"
 	"github.com/caddyserver/caddy/v2/caddyconfig/caddyfile"
