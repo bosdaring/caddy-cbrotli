@@ -3,7 +3,7 @@ package caddycbrotli
 import (
 	"io"
 
-	"github.com/google/brotli/tree/master/go/cbrotli"
+	"github.com/bosdaring/go-cbrotli"
 )
 
 type encoder struct {
